@@ -1,4 +1,4 @@
-# Test microblog project on Flask
+# Test microblog project on Flask.
 
 import datetime
 import os
